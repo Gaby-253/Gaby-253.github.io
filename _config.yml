@@ -1,36 +1,36 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
-photo: headshot.jpg  # place your photo in images/
+name: "Gabriel Gattaux Goulon"
+title: "PhD Student in Bio-inspired Robotics"
+institution: "Aix Marseille University"
+email: gabriel.gattaux@univ-amu.fr
+photo: headshot.png  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
-  orcid: ""
+  google_scholar: "https://scholar.google.com/citations?user=9ruLBb4AAAAJ&hl=fr&oi=ao"
+  github: "https://github.com/Gaby-253"
+  researchgate: "https://www.researchgate.net/profile/Gabriel-Gattaux"
+  orcid: "https://orcid.org/0000-0002-9424-7543"
   twitter: ""
-  linkedin: ""
-  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+  linkedin: "https://www.linkedin.com/in/gabriel-gattaux/"
+  cv: "papers/cv.pdf"  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Academic webpage of Gabriel Gattaux Goulon"
 baseurl: ""
-url: ""
+url: "https://github.com/Gaby-253/Gaby-253.github.io"
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
-  google_id: ""
+  google_id: "G-QNXS59XY1R"
 
 # ============================================================
 # STEP 4: Choose Your Pages (comment out any you don't need)
@@ -41,9 +41,10 @@ nav_pages:
   - name: talks
   - name: research
   - name: software
-  - name: team
   - name: teaching
-  - name: blogs
+#  - name: blogs
+#  - name: collaborations
+#  - name: datasets
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
@@ -76,8 +77,8 @@ kramdown:
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Gattaux
+  first_name: [G.]
   style: citesty
   locale: en
   source: /assets/
