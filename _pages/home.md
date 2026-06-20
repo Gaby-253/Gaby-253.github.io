@@ -17,14 +17,13 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
+Robotics and Biology are two major branches of modern science: one builds artificial systems capable of sensing, moving, and adapting, while the other seeks to understand how natural systems, from cells to brains to behaviors, achieve the same. Biorobotics is the interdisciplinary field that bridges them, combining principles from engineering, neuroscience, and biology to study living intelligence and design machines inspired by it. It plays a crucial role in our understanding of movement, perception, and adaptation across living organisms, while enabling the development of frugal, robust, and efficient robots inspired by nature. Research in biorobotics helps us make predictions about how animals think and behave, and to test these predictions on robotics platforms.
 
-<div class="callout callout-success" markdown="0">
+
+<!-- <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
 <p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
+</div> -->
 
 <div class="banner-frame" markdown="0">
 <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
