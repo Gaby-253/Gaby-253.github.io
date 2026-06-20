@@ -26,8 +26,8 @@ Robotics and Biology are two major branches of modern science: one builds artifi
 </div> -->
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/antcar_art.jpg" alt="Feynman diagrams" loading="lazy">
+<div class="banner-caption">An Ant looking at the Antcar robot. Credit: Tifenn Ripoll - VOST Collectif / Institut Carnot STAR. Gattaux, G., et al. <em>Route-centric ant-inspired memories enable panoramic route-following in a car-like robot. Nat. Commun.</em> (2025)</div>
 </div>
 
 ### About me
