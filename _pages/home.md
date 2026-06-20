@@ -32,7 +32,9 @@ Robotics and Biology are two major branches of modern science: one builds artifi
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am a roboticist working in the field of biorobotics, with a focus on visual systems, neuroscience, and ethology, particularly in invertebrates such as ants, bees, and flies. I work across multiple robotic platforms, including wheeled, aerial, marine, and humanoid robots.
+
+I am currently finishing my PhD at Aix-Marseille University under the supervision of Franck Ruffier, Julien Serres, and Antoine Wystrach. My doctoral work lies at the intersection of robotics and animal cognition, in collaboration with the Centre de Recherche sur la Cognition Animale in Toulouse, the Joint Robotics Laboratory in Japan and the ENSTA bretagne in Brest. Alongside my research, I have taught at ENSTA Bretagne and at Aix-Marseille University.
+
+I received my Master’s degree in Mechatronics Engineering from the ENSIL-ENSCI Engineering School at the University of Limoges, including an Erasmus exchange in Computer Science at Wrocław University of Science and Technology. Before that, I earned my Bachelor’s degree from the Nancy-Brabois University Institute of Technology, alongside a dual curriculum with Polytech Nancy.
+
