@@ -55,18 +55,25 @@ permalink: /about/
 
 {% if site.data.people %}
 <div class="section-card">
-<h3>Students and Mentoring</h3>
-<ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
-{% endfor %}
-</ul>
+  <h3>References</h3>
+  <div class="reference-grid">
+    {% for person in site.data.people %}
+      <div class="reference-card">
+        <h4>{{ person.name }}</h4>
+        <p><strong>{{ person.role }}</strong></p>
+        <p>{{ person.institution }}</p>
+        <p>{{ person.description }}</p>
+      </div>
+    {% endfor %}
+  </div>
 </div>
 {% endif %}
 
+
+
 {% if site.data.funders %}
 <div class="section-card">
-<h4>Sponsors</h4>
+<h4>Affiliations</h4>
 <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
 {% for funder in site.data.funders %}
 <a href="{{ funder.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy"></a>

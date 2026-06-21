@@ -1,31 +1,16 @@
 # Students and mentees, shown on the About page.
 # Each entry needs: name, location, degree, year
-- name: Albert Hibbs
-  location: Caltech
-  degree: Ph.D.
-  year: 1955
+- name: Franck Ruffier
+  role: Research Director
+  institution: IP Paris | Ensta, Lab-Sticc, CNRS
+  description: Specialist in bio-inspired robotics, visual navigation, and insect-inspired perception.
 
-- name: George Zweig
-  location: Caltech
-  degree: Ph.D.
-  year: 1964
+- name: Julien Serres
+  role: Professor
+  institution: Aix-Marseille University, IUF
+  description: Works on visual guidance, autonomous systems, and insect-inspired robotic control.
 
-- name: Giovanni Rossi Lomanitz
-  location: Cornell
-  degree: Ph.D.
-  year: 1951
-
-- name: Thomas Curtright
-  location: Caltech
-  degree: Ph.D.
-  year: 1977
-
-- name: William Frazer
-  location: Caltech
-  degree: Ph.D.
-  year: 1958
-
-- name: Robert Hellwarth
-  location: Caltech
-  degree: Ph.D.
-  year: 1956
+- name: Antoine Wystrach
+  role: Research Director
+  institution: CBI CRCA Toulouse, CNRS
+  description: Expert in insect cognition, navigation, and animal behavior.

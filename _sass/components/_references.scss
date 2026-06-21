@@ -1,0 +1,27 @@
+.reference-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.reference-card {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fafafa;
+  transition: transform 0.2s ease;
+}
+
+.reference-card:hover {
+  transform: translateY(-3px);
+}
+
+.reference-card h4 {
+  margin-bottom: 0.5rem;
+}
+
+.reference-card p {
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}

@@ -2,7 +2,7 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Gabriel Gattaux Goulon"
-title: "PhD Student in Bio-inspired Robotics"
+title: "PhD Student in Biorobotics"
 institution: "Aix Marseille University"
 email: gabriel.gattaux@univ-amu.fr
 photo: headshot.png  # place your photo in images/
@@ -78,7 +78,7 @@ plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
   last_name: Gattaux
-  first_name: [G.]
+  first_name: [Gabriel]
   style: citesty
   locale: en
   source: /assets/
