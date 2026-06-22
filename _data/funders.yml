@@ -7,9 +7,5 @@
   url: https://www.defense.gouv.fr/aid
 - image: amu.png
   url: https://www.univ-amu.fr/en
-- image: crca.png
-  url: https://cbi-toulouse.fr/umr-crca/
-- image: ensta.png
-  url: https://www.ensta.fr/
-- image: JRL.png
-  url: https://unit.aist.go.jp/isri/isri-jrl/en/
+- image: anr.png
+  url: https://www.anr.fr/

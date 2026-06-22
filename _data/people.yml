@@ -1,16 +1,19 @@
 # Students and mentees, shown on the About page.
 # Each entry needs: name, location, degree, year
-- name: Franck Ruffier
-  role: Research Director
-  institution: IP Paris | Ensta, Lab-Sticc, CNRS
-  description: Specialist in bio-inspired robotics, visual navigation, and insect-inspired perception.
-
 - name: Julien Serres
   role: Professor
   institution: Aix-Marseille University, IUF
-  description: Works on visual guidance, autonomous systems, and insect-inspired robotic control.
+  description: Co-director of my PhD at Aix-Marseille University. Renowned for his work on insect-inspired robotics, with a focus on insect vision, locomotion, and polarized skylight navigation.
+  website: https://serres-lab.com/
+
+- name: Franck Ruffier
+  role: Research Director
+  institution: IP Paris | Ensta, Lab-Sticc, CNRS
+  description: Co-director of my PhD between Aix-Marseille University and ENSTA Bretagne. Renowned for his work on insect-inspired robotics, with a focus on visual navigation, optic flow, and flapping-wing systems.
+  website: https://webperso.ensta.fr/ruffier/
 
 - name: Antoine Wystrach
   role: Research Director
   institution: CBI CRCA Toulouse, CNRS
-  description: Expert in insect cognition, navigation, and animal behavior.
+  description: Co-supervisor of my PhD at the CBI CRCA in Toulouse. Renowned for his work on ant navigation and visual mechanisms in natural environments, with a focus on computational neuroscience and ethology.
+  website: https://cbi-toulouse.fr/equipe/beeantce/

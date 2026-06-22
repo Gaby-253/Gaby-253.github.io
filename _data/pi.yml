@@ -4,10 +4,19 @@
 
 # EXAMPLE -- replace or delete
 - education:
-  - "(expected 2026) Ph.D. in Biorobotics, Aix-Marseille University"
-  - "(2022) Engineering Degree in Mechatronics (M.Sc.), ENSIL-ENSCI, University of Limoges"
-  - "(2019) DUT in Mechanical and Production Engineering, Nancy-Brabois University Institute of Technology / Polytech Nancy"
+    - year: "expected 2026"
+      degree: "Ph.D. in Robotics"
+      institution: "Aix-Marseille University"
+
+    - year: "2022"
+      degree: "Engineering Degree in Mechatronics (M.Eng)"
+      institution: "ENSIL-ENSCI, University of Limoges <br> Wrocław University of Science and Technology"
+
+    - year: "2019"
+      degree: "DUT in Mechanical and Production Engineering"
+      institution: "Nancy-Brabois University Institute of Technology <br> Polytech Nancy"
+
   educationshort:
-  - "(expected 2026) Ph.D. Biorobotics, AMU"
-  - "(2022) Engineering Degree (M.Sc.), ENSIL-ENSCI"
-  - "(2019) DUT Mechanical Engineering, IUT Nancy / Polytech Nancy"
+    - "(2026*) Ph.D. Robotics <br> Aix-Marseille University"
+    - "(2022) M.Eng. Mechatronics <br> ENSIL-ENSCI <br> Wrocław University of Science and Technology"
+    - "(2019) DUT Mechanical Engineering  <br> IUT Nancy-Brabois <br> Polytech Nancy"

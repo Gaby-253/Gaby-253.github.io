@@ -6,7 +6,6 @@ permalink: /about/
 ---
 
 ## About
-
 <div class="section-card">
 <div class="pi-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="pi-photo" alt="{{ site.name }}" loading="lazy">
@@ -21,11 +20,17 @@ permalink: /about/
 {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}" class="icon-link" title="ResearchGate"><i class="ai ai-researchgate"></i></a>{% endif %}
 </div>
 {% if site.data.pi[0].education %}
-<ul style="margin-top: var(--space-4);">
-{% for education in site.data.pi[0].education %}
-<li>{{ education | replace: "-","&#8211;" }}</li>
+<div class="education-list">
+{% for edu in site.data.pi[0].education %}
+<div class="education-item">
+<span class="edu-year">{{ edu["year"] }}</span>
+<div class="edu-content">
+<strong>{{ edu["degree"] }}</strong><br>
+<span>{{ edu["institution"] }}</span>
+</div>
+</div>
 {% endfor %}
-</ul>
+</div>
 {% endif %}
 </div>
 </div>
@@ -33,7 +38,7 @@ permalink: /about/
 
 {% if site.data.grants %}
 <div class="section-card">
-<h3>Grants</h3>
+<h3>Grants and Fellowships</h3>
 <ul>
 {% for grant in site.data.grants %}
 <li>{{ grant.name }}</li>
@@ -54,22 +59,57 @@ permalink: /about/
 {% endif %}
 
 {% if site.data.people %}
-<div class="section-card">
-  <h3>References</h3>
-  <div class="reference-grid">
-    {% for person in site.data.people %}
-      <div class="reference-card">
-        <h4>{{ person.name }}</h4>
-        <p><strong>{{ person.role }}</strong></p>
-        <p>{{ person.institution }}</p>
-        <p>{{ person.description }}</p>
-      </div>
-    {% endfor %}
-  </div>
+<div class="section-card" markdown="0">
+<h3>References</h3>
+<div class="reference-grid">
+{% for person in site.data.people %}
+<div class="reference-card">
+<h4>{{ person.name }}</h4>
+<p><strong>{{ person.role }}</strong></p>
+<p>{{ person.institution }}</p>
+<p>{{ person.description }}</p>
+</div>
+{% endfor %}
+</div>
 </div>
 {% endif %}
 
+{% if site.data.service %}
+<div class="section-card">
+<h3>Professional Service</h3>
 
+<div class="service-groups">
+
+<div class="service-group">
+<h4>Reviewing</h4>
+<ul>
+{% for item in site.data.service.reviewing %}
+<li>{{ item }}</li>
+{% endfor %}
+</ul>
+</div>
+
+<div class="service-group">
+<h4>Community</h4>
+<ul>
+{% for item in site.data.service.community %}
+<li>{{ item }}</li>
+{% endfor %}
+</ul>
+</div>
+
+<div class="service-group">
+<h4>Organization</h4>
+<ul>
+{% for item in site.data.service.organization %}
+<li>{{ item }}</li>
+{% endfor %}
+</ul>
+</div>
+
+</div>
+</div>
+{% endif %}
 
 {% if site.data.funders %}
 <div class="section-card">

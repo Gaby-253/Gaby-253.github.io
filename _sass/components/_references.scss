@@ -7,14 +7,17 @@
 
 .reference-card {
   padding: 1rem;
-  border: 1px solid #ddd;
+  border: 1px solid rgba(255,255,255,0.08);
   border-radius: 12px;
-  background: #fafafa;
-  transition: transform 0.2s ease;
+  background: rgba(255,255,255,0.04);
+  transition: all 0.2s ease;
+  backdrop-filter: blur(8px);
 }
 
 .reference-card:hover {
   transform: translateY(-3px);
+  background: rgba(255,255,255,0.07);
+  border-color: rgba(255,255,255,0.15);
 }
 
 .reference-card h4 {

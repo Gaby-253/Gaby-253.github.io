@@ -10,51 +10,53 @@ permalink: /research/
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/auto.png" class="research-thumb" alt="Robotics Platforms">
 <div class="research-body">
-<h4 class="research-title">Quantum Electrodynamics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<h4 class="research-title">Autonomous Robotics</h4>
+<p class="research-desc">Design of autonomous robotic systems capable of perceiving, navigating, and adapting in complex environments, with a focus on frugal, robust, and efficient intelligence across multiple robotic platforms, from single-agent to collective and swarm systems  .</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/eye.svg" class="research-thumb" alt="Compound Eye">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Natural and Artificial Vision</h4>
+<p class="research-desc">Study of visual perception in biological and artificial systems, from insect vision to machine perception and computer vision, with a focus on active vision, optic flow, visual memories, and sensory strategies for navigation and interaction in complex environments.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/neuromorphic.jpg" class="research-thumb" alt="Neuromorphic Computing">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Neuromorphic Engineering</h4>
+<p class="research-desc">Development of biologically inspired sensory and computational systems for robotics, including event-based vision, sparse neural architectures, spiking network, and low-power embedded intelligence for perception, navigation, and decision-making.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/map_control_theory.jpg" class="research-thumb" alt="Weak interaction diagram">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">Control Theory</h4>
+<p class="research-desc">Development and mathematical analysis of dynamical feedback control systems for autonomous robots, including stability, guidance, visual servoing, and sensorimotor regulation under uncertainty.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/comp_neuro.svg" class="research-thumb" alt="Fly brain model">
 <div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+<h4 class="research-title">Computational Neuroscience</h4>
+<p class="research-desc">Development of computational models of neural systems grounded in connectomics data to understand how biological circuits encode perception, memory, and decision-making, and to reproduce these principles in autonomous and explainable artificial intelligence systems.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/ant.svg" class="research-thumb" alt="Ant tracking">
 <div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+<h4 class="research-title">Ethology</h4>
+<p class="research-desc">Study of animal behavior in ecological contexts, with a focus on insect navigation, route learning, adaptation, and natural decision-making.</p>
 </div>
 </div>
+
+
 
 </div>

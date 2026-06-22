@@ -3,10 +3,13 @@
    viewBox="0 0 400 179"
    version="1.1"
    id="svg30"
-   sodipodi:docname="weak-interactions.svg"
+   sodipodi:docname="auto.svg"
    width="400"
    height="179"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/gat/Documents/Personal/website/Gaby-253.github.io/images/research/auto.png"
+   inkscape:export-xdpi="261"
+   inkscape:export-ydpi="261"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -68,9 +71,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.695"
-     inkscape:cx="151.03245"
-     inkscape:cy="-0.88495575"
+     inkscape:zoom="1.28"
+     inkscape:cx="265.625"
+     inkscape:cy="24.609375"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="1920"
@@ -102,21 +105,21 @@
        inkscape:export-xdpi="261"
        inkscape:export-ydpi="261"
        clip-path="url(#clipPath5897)"
-       transform="matrix(0.98578179,0,0,0.98578179,5.2995431,-1.02869)" />
+       transform="matrix(0.98510528,0,0,0.98510528,5.2959061,-1.027984)" />
     <ellipse
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.497578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.497237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path207247"
-       cx="59.489681"
-       cy="66.499016"
+       cx="59.448853"
+       cy="66.453377"
        inkscape:export-filename="/home/gat/Documents/AntFly/Paper/figures/figure_principe.png"
        inkscape:export-xdpi="261"
        inkscape:export-ydpi="261"
-       rx="5.8658276"
-       ry="5.7641811" />
+       rx="5.8618021"
+       ry="5.7602253" />
     <g
        id="g207573"
        style="stroke-width:0.537339;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(1.4012,0,0,1.3769187,-23.47235,-168.52379)"
+       transform="matrix(1.4002384,0,0,1.3759738,-23.456242,-168.40814)"
        inkscape:export-filename="/home/gat/Documents/AntFly/Paper/figures/figure_principe.png"
        inkscape:export-xdpi="261"
        inkscape:export-ydpi="261">
@@ -139,16 +142,16 @@
          r="13.482846" />
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.497578;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 54.923087,63.070583 77.037228,16.948605"
+       style="fill:none;stroke:#000000;stroke-width:0.497237;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 54.885395,63.027299 76.984359,16.936974"
        id="path207608"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/gat/Documents/AntFly/Paper/figures/figure_principe.png"
        inkscape:export-xdpi="261"
        inkscape:export-ydpi="261" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.497578;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 63.528918,70.750617 107.99974,37.343028"
+       style="fill:none;stroke:#000000;stroke-width:0.497237;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 63.48532,70.702063 107.92562,37.3174"
        id="path207610"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/gat/Documents/AntFly/Paper/figures/figure_principe.png"
@@ -156,7 +159,7 @@
        inkscape:export-ydpi="261" />
     <g
        id="g796432"
-       transform="matrix(0.63713522,0,0,0.62969425,-271.37487,-413.52531)"
+       transform="matrix(0.63669797,0,0,0.6292621,-271.18863,-413.24152)"
        clip-path="url(#clipPath5893)">
       <image
          width="201.1806"
@@ -168,8 +171,8 @@
          y="806.70325" />
     </g>
     <image
-       width="163.5295"
-       height="178.98108"
+       width="163.41727"
+       height="178.85826"
        preserveAspectRatio="none"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/4UKsRXhpZgAASUkqAAgAAAAHABIBAwABAAAAAQAAABoBBQAB
 AAAAYgAAABsBBQABAAAAagAAACgBAwABAAAAAgAAADEBAgANAAAAcgAAADIBAgAUAAAAgAAAAGmH
@@ -45789,7 +45792,7 @@ vFIf733guKveL8VsDh/uv7Y4bgwAmYc75IESu+gfFZwX1dLEwP8Aopv+uFLLP3QRQZGq2SgNsyZ7
 /mzzUxESa/8AO7x6vb+Ji/uQfO/+VkEyAv8A88Tz68PD6Hf+O7Ub4H3/AP/Z
 "
        id="image5771"
-       x="114.30043"
+       x="114.22199"
        y="-1.0477079e-09" />
     <image
        width="181.75325"
@@ -105250,7 +105253,7 @@ AAAAAAABCjYAAAAjAAAAAAChChMAAAATAAAAJAAAAFNFRlQ=
        id="image5783"
        x="1.0435271"
        y="-412.77615"
-       transform="matrix(0,0.98578179,-0.98578179,0,5.2995571,-1.02869)"
+       transform="matrix(0,0.98510528,-0.98510528,0,5.2959201,-1.027984)"
        clip-path="url(#clipPath6005)" />
   </g>
 </svg>

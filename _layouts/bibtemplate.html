@@ -3,12 +3,25 @@
 
 <div class="pub-entry" data-pub-searchable>
   <div class="text-justify">
-    {{ reference
-      | replace_first: 'Gattaux, G.', '<b>Gattaux, G.</b>'
-      | replace_first: 'Gattaux, G. G.', '<b>Gattaux, G. G.</b>'
-      | replace_first: 'Gattaux Goulon, G.', '<b>Gattaux Goulon, G.</b>'
-      | replace_first: 'Gattaux Goulon, Gabriel', '<b>Gattaux Goulon, Gabriel</b>'
-    }}
+
+    {% assign ref = reference %}
+
+    {% unless entry.type == 'incollection' %}
+      {% assign ref = ref
+        | replace_first: 'Gattaux, G.', '<b>Gattaux, G.</b>'
+        | replace_first: 'Gattaux, G. G.', '<b>Gattaux, G. G.</b>'
+        | replace_first: 'Gattaux Goulon, G.', '<b>Gattaux Goulon, G.</b>'
+        | replace_first: 'Gattaux Goulon, Gabriel', '<b>Gattaux Goulon, Gabriel</b>'
+      %}
+    {% endunless %}
+
+    {% if entry.type == 'incollection' and entry.booktitle %}
+      {% capture bold_booktitle %}<b>{{ entry.booktitle }}</b>{% endcapture %}
+      {% assign ref = ref | replace: entry.booktitle, bold_booktitle %}
+    {% endif %}
+
+    {{ ref }}
+
   </div>
   {% assign bibtest = false %}
   {% if entry.file %}
