@@ -9,7 +9,7 @@
       institution: "Aix-Marseille University"
 
     - year: "2022"
-      degree: "Engineering Degree in Mechatronics (M.Eng)"
+      degree: "Engineering Degree in Mechatronics (~M.Eng)"
       institution: "ENSIL-ENSCI, University of Limoges <br> Wrocław University of Science and Technology"
 
     - year: "2019"
@@ -18,5 +18,5 @@
 
   educationshort:
     - "(2026*) Ph.D. Robotics <br> Aix-Marseille University"
-    - "(2022) M.Eng. Mechatronics <br> ENSIL-ENSCI <br> Wrocław University of Science and Technology"
+    - "(2022) Engineering Degree in Mechatronics (~M.Eng) <br> ENSIL-ENSCI <br> Wrocław University of Science and Technology"
     - "(2019) DUT Mechanical Engineering  <br> IUT Nancy-Brabois <br> Polytech Nancy"
